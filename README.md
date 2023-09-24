@@ -1,5 +1,7 @@
 ## I DO NOT OWN ANY OF THE CUSTOM MUSIC ADDED:   CREDITS GOES TO HOYO-MIX, YU-PENG CHEN AND HOYOVERSE.
 ***
+ℹ️ Latest Update:  Beta-0.1-1.20.X - [Download full package](https://github.com/miwafoxl/sounds-of-hydro/releases)
+
 **Sounds of Teyvat** aims to add most music from the popular gacha game Genshin Impact to Minecraft. The custom soundtrack is entirely situational, changing fittingly to the biome you're walking into, creating a more nicer adventure experience. This vanilla resource pack replaces all Minecraft OST and adds a little over 170 custom songs to the game.
 
 The goal is to bring Genshin's incredible music to fit Minecraft's enviroment. Because of that, some songs that would play in Genshin's context doesn't necessarily play in the equivalent Minecraft's context. A good chunk of them were repurposed to fit Minecraft's biomes the best it can with no business with the original game. There is also some songs that were deliberately not added because it didn't fit Minecraft totally, those mostly being domain BGMs, battle BGMs and so on, with few expections. 
@@ -14,7 +16,7 @@ Those are the regions currently implemented to the pack and their overall presen
 - Fontaine -> Ocean, Underwater <small>(complete)</small>
 
 ## Accompaniment for this pack
-**Optional Generation:** Sounds of Teyvat works great with vanilla's [Large Biomes] generation and [Tectonic] data pack as both of those provides bigger biomes. 
+**Optional Generation:** Sounds of Hydro works great with vanilla's [Large Biomes] generation and [Tectonic] data pack as both of those provides bigger biomes. 
 
 [Terralith], unfortunately is NOT supported, this also incluses other mods that adds custom biomes. The reason is because of the absence of biome-based custom triggers for music like `terralith:music.overworld.yellowstone` (In that case, generic overworld music will play instead) so, custom music can't be introduced via Resource Packs.
 
